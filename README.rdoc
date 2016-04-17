@@ -1,5 +1,7 @@
 == README
 This is the application about EC-site for jojimasakemedia
+The Heroku_URL is https://git.heroku.com/mighty-mountain-85641.git
+
 
 Things you may want to cover:
 
